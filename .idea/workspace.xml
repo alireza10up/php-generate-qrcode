@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26966670-4faf-451e-a6a8-04f347279b19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/use.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratorQrCode.php" beforeDir="false" afterPath="$PROJECT_DIR$/QRCodeGenerator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QRCodeGenerator.php" beforeDir="false" afterPath="$PROJECT_DIR$/QRCodeGenerator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use.php" beforeDir="false" afterPath="$PROJECT_DIR$/use.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708364681766</updated>
-      <workItem from="1708364682930" duration="1147000" />
+      <workItem from="1708364682930" duration="2196000" />
     </task>
     <servers />
   </component>
