@@ -2,7 +2,7 @@
 
 use Endroid\QrCode\QrCode;
 
-class MyQRCodeGenerator {
+class QRCodeGenerator {
 	public function generate($data, $options = []): array {
 
 		$qrCode = new QrCode($data);
